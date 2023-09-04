@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jahan3165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahan3165" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahanrazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanrazh" height="30" width="40" /></a>
+
 <a href="https://fb.com/rjahan.razh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rjahan.razh" height="30" width="40" /></a>
 <a href="https://instagram.com/_jahan_razh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jahan_razh_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC_4OKBZ0RYHTDxKYHwFFojw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming covernet" height="30" width="40" /></a>
+<a href="https://twitter.com/jahan3165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahan3165" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahanrazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanrazh" height="30" width="40" /></a>
 <a href="https://discord.gg/jahanramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahanramesh" height="30" width="40" /></a>
 </p>
 
