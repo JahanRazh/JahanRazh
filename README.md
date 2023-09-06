@@ -44,6 +44,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanrazh&show_icons=true&locale=en" alt="jahanrazh" /></p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanrazh&" alt="jahanrazh" />
-
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
