@@ -17,13 +17,15 @@
 - ⚡ Fun fact: I think I'am funny.
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanrazh&label=Profile%20views&color=0e75b6&style=flat" alt="jahanrazh" /> </p>
+
 <div> <a href="https://twitter.com/@jahan3165 " target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/jahanrazh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/JahanRazh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_jahan_razh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jahanrazh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanrazh&label=Profile%20views&color=0e75b6&style=flat" alt="jahanrazh" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/jahan3165" target="blank"><img src="https://img.shields.io/twitter/follow/jahan3165?logo=twitter&style=for-the-badge" alt="jahan3165" /></a> </p>
 
