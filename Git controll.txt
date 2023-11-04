@@ -1,0 +1,18 @@
+//push karna vidiya
+git init
+git add .       //upload all file
+git status      //check status
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JahanRazh/Diet_Plan_and_Health_Check-up_System..git
+git push -u origin main
+
+
+error
+$ git fetch origin main:tmp
+$ git rebase tmp
+$ git push
+git push -u origin main
+
+//clone karana vidiya 
+git clone https://github.com/JahanRazh/Diet_Plan_and_Health_Check-up_System..git
