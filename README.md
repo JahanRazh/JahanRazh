@@ -75,3 +75,4 @@
 <a href="https://www.buymeacoffee.com/jahanramesh">
 <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
 </p>
+<p><a href="https://ko-fi.com/ko-fi.com/jahanramesh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/jahanramesh" /></a></p>
