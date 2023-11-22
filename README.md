@@ -69,3 +69,9 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JahanRazh&theme=github-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<h3 align="center">Support:</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/jahanramesh">
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
+</p>
