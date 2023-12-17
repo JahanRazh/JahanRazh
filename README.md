@@ -27,8 +27,8 @@
 <a href="https://instagram.com/_jahan_razh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jahanrazh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-        
-
+ 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jahan.razh.png" alt="TryHackMe">
 <p align="left"> <a href="https://twitter.com/jahan3165" target="blank"><img src="https://img.shields.io/twitter/follow/jahan3165?logo=twitter&style=for-the-badge" alt="jahan3165" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
