@@ -55,6 +55,14 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=jahanrazh&" alt="jahanrazh" />
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jahanrazh&&theme=xcode)](https://github.com/jahanrazh)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanrazh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jahanrazh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanrazh&show_icons=true&locale=en&theme=tokyonight" alt="jahanrazh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanrazh&&theme=tokyonight" alt="jahanrazh" /></p>
+
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
