@@ -26,6 +26,11 @@
 <a href="https://github.com/JahanRazh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/_jahan_razh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jahanrazh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="left">
+<a href="https://stackoverflow.com/users/jahan-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahan-ramesh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jahanrazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahanrazh" height="30" width="40" /></a>
+</p>
+
 </div>
  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Jahan.razh.png" alt="TryHackMe">
