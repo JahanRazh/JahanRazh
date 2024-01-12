@@ -54,7 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanrazh&show_icons=true&locale=en" alt="jahanrazh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanrazh&&theme=tokyonight" alt="jahanrazh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JahanRazh&&theme=tokyonight" alt="rishavchanda" /></p>
 
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
