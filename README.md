@@ -12,7 +12,7 @@
 <!---Here are some ideas to get you started:-->
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Java<!---- 👯 I’m looking to collaborate on ...--><!---- 🤔 I’m looking for help with ...-->
+- 🌱 I’m currently learning Java/MERN<!---- 👯 I’m looking to collaborate on ...--><!---- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about java/c++/c/python
 - 📫 How to reach me:jahanrazh@gmail.com<!---- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I think I'am funny.
