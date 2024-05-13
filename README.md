@@ -5,6 +5,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src ="https://user-images.githubusercontent.com/121393192/284828415-8a0342b6-0e77-44cc-9b52-0a6cdf204911.png">
 <h1 align="center">Hi 👋, I'm JÆHAN</h1>
+<h3 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+JÆHAN;+An+Open+Source+Enthusiast+☀;Web+Developer+💻;Love+To+Impactful+Projects+🛠;An+Avid+Reader+📖;">
+</h3>
 <h3 align="center">A passionate Full Stack Software Developer From Sri lanka</h3>
 
 <!---**JahanRazh/JahanRazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
