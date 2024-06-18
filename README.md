@@ -47,7 +47,7 @@
       VERIFY
     </a>
   </p>
-  <script async src="https://badgr.com/assets/widgets.bundle.js"></script>
+ 
 </blockquote>
 
 <p align="left"> <a href="https://twitter.com/jahan3165" target="blank"><img src="https://img.shields.io/twitter/follow/jahan3165?logo=twitter&style=for-the-badge" alt="jahan3165" /></a> </p>
