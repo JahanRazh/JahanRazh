@@ -101,3 +101,5 @@
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
 <a href="https://ko-fi.com/jahanramesh"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/jahanramesh" /></a><br><br>
 </p>
+## snake eating my contribution graph
+![snake gif](https://github.com/JahanRazh/JahanRazh/blob/output/github-contribution-grid-snake-dark.svg)
