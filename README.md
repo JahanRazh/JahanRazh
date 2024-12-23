@@ -113,7 +113,7 @@
 
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=6&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=8&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
