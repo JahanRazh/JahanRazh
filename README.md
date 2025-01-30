@@ -15,7 +15,7 @@
 <h3 align="center">A passionate Full Stack Software Developer From Sri lanka</h3>
 
 <!---**JahanRazh/JahanRazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!---Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ERP Management System
