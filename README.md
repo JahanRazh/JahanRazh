@@ -23,7 +23,7 @@
 - 💬 Ask me about java/c++/c/python
 - 📫 How to reach me:jahanrazh@gmail.com<!---- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I think I'am funny.
-
+------
 <img align="right" alt="coding" width="400" src="https://github.com/JahanRazh/JahanRazh/blob/main/gif.gif">
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanrazh&label=Profile%20views&color=0e75b6&style=flat" alt="jahanrazh" /> </p>
