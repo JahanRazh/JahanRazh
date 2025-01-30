@@ -107,7 +107,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanrazh&show_icons=true&locale=en&layout=compact" alt="jahanrazh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanrazh&show_icons=true&locale=en" alt="jahanrazh" /><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanrazh&show_icons=true&locale=en" alt="jahanrazh" /><img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="max-width: 10%; display: inline-block;" data-target="animated-image.originalImage"></p>
 
 <p align="center"> <img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanrazh&&theme=default" alt="jahanrazh" /><img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"></p>
 
