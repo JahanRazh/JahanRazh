@@ -135,7 +135,7 @@
 <p>
 <a href="https://www.buymeacoffee.com/jahanramesh">
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a>
-  <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width: 50%; display: inline-block;">
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" height="50" width="210" display: inline-block;">
 <a href="https://ko-fi.com/jahanramesh"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/jahanramesh" /></a><br><br>
 </p>
 
