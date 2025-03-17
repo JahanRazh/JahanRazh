@@ -132,7 +132,7 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<h3 align="center">"If you can buy me a coffee and support me ☕"</h3>
+<h3 align="center">"If you can buy me a coffee ☕"</h3>
 <p>
 <div align= "center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" height="50" width="50" ">
