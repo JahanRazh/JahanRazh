@@ -9,10 +9,13 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm JÆHAN</h1>
+
 <h3 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=ffff&size=30&center=true&vCenter=true&width=550&height=40&lines=Hey+There+👋,+I'm+JÆHAN;+An+Open+Source+Enthusiast+☀;Web+Developer+💻;Love+To+Impactful+Projects+🛠;An+Avid+Reader+📖;">
 </h3>
 <h3 align="center">A passionate Full Stack Software Developer From Sri lanka</h3>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=8&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
 
 <!---**JahanRazh/JahanRazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img align="right" width=200px height=145px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -25,6 +28,7 @@
 - ⚡ Fun fact: I think I'am funny.
 
 ---
+
 <img align="right" alt="coding" width="400" src="https://github.com/JahanRazh/JahanRazh/blob/main/gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanrazh&label=Profile%20views&color=0e75b6&style=flat" alt="jahanrazh" /> </p>
@@ -113,8 +117,7 @@
 <p align="center"> <img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahanrazh&&theme=default" alt="jahanrazh" /><img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"></p>
 
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=8&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
