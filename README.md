@@ -88,6 +88,10 @@
 <br/>
 
 ## 🫂 Also Familiar
+<table align="left">
+<tr border="none">
+<td width="50%" align="left" >
+  
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
@@ -96,6 +100,15 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
+</td>
+<td width="50%" align="center">
+  
+  <img align="center" alt="portfolio image" width="300" src="01.png">
+  <br>
+  Visit <a href="https://lahiru-dhananjaya.netlify.app/" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
+</td>
+</tr>
+</table>
 
 ## 🍿 In free time
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
