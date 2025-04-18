@@ -103,9 +103,10 @@
 </td>
 <td width="50%" align="center">
   
-  <img align="center" alt="portfolio image" width="300" src="01.png">
+  <img align="center" alt="portfolio image" width="300" src="![image](https://github.com/user-attachments/assets/be398dd1-06ec-45fe-9e68-a33ab7ac498d)">
   <br>
-  Visit <a href="https://lahiru-dhananjaya.netlify.app/" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
+  Visit <a href="https://jahanrazh.github.io/Jahan-sportfolio-website" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
+  Visit <a href="" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
 </td>
 </tr>
 </table>
