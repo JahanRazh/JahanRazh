@@ -103,8 +103,7 @@
 </td>
 <td width="50%" align="center">
   
-  <img align="center" alt="portfolio image" width="300" src="![port](https://github.com/user-attachments/assets/196998b3-5ca4-4cff-9b19-e46f71a4f83f)
-">
+  <img align="center" alt="portfolio image" width="300" src="portfolio.png">
   <br>
   Visit <a href="https://jahanrazh.github.io/Jahan-sportfolio-website" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
  
