@@ -60,8 +60,16 @@
       VERIFY
     </a>
   </p>
- 
 </blockquote>
+
+ ## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/19657ae2-61ff-401e-ad6a-1c81af7c6785/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/19657ae2-61ff-401e-ad6a-1c81af7c6785/badge.png" width="150" height="150" alt="Credly Badge"/>
+  </a>
+</p>
+
 
 
 
