@@ -45,28 +45,19 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/Jahan.razh.png" alt="TryHackMe">
 
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
-  <a href="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw?identity__email=jahanrazh%40gmail.com">
-    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw/image" alt="Postman API Fundamentals Student Expert Badge">
+
+## 🏅 Certifications
+
+<p align="left">
+  <!-- Postman Badge -->
+  <a href="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw?identity__email=jahanrazh%40gmail.com" target="_blank">
+    <img src="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw/image" width="120px" height="120px" alt="Postman API Fundamentals Student Expert Badge"/>
   </a>
-  <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; line-height: 1.25; color: #05012c;">
-    Postman API Fundamentals Student Expert
-  </p>
-  <p class="badgr-badge-date" style="margin: 0; font-size: 12px; line-height: 1.67; color: #555555;">
-    <strong style="font-size: 12px; font-weight: bold; line-height: 1.67; color: #000;">Awarded: </strong>Jun 19, 2024
-  </p>
-  <p style="margin: 16px 0; padding: 0;">
-    <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FN6taIz2BSt2B55ZiwBooXw%3Fidentity__email%3Djahanrazh%2540gmail.com&amp;identity__email=jahanrazh%40gmail.com" style="display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: bold; width: 80px; height: 24px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">
-      VERIFY
-    </a>
-  </p>
-</blockquote>
 
- ## 🏅 Certifications
-
-<p align="center">
+  <!-- AWS Academy Badge -->
   <a href="https://www.credly.com/badges/19657ae2-61ff-401e-ad6a-1c81af7c6785/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/19657ae2-61ff-401e-ad6a-1c81af7c6785/badge.png" width="150" height="150" alt="Credly Badge"/>
+    <img width="156px" height="156px" alt="aws-academy-graduate-cloud-web-application-builder-" src="https://github.com/user-attachments/assets/ef26ab32-f858-4799-92d7-f9b64b2977f7" />
+
   </a>
 </p>
 
