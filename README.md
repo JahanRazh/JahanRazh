@@ -46,7 +46,7 @@
 
 
 
-## 🏅 Certifications
+## 🏅 Certifications Badge
 
 <p align="left">
   <!-- Postman Badge -->
