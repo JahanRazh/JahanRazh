@@ -1,7 +1,7 @@
 ### Hi there what's going on..👋
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img width="1584" height="396" alt="Software Engineer System Thinker" src="https://github.com/user-attachments/assets/a09c540c-e1a7-44a8-834a-3294b5683193" />
+
 
 <p align="center">
   <a href="https://github.com/jahanRazh">
