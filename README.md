@@ -17,14 +17,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahanrazh&row=1&column=8&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="jahanrazh" /></a> </p>
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=JahanRazh&theme=onestar&no-frame=true&row=1&column=6"
-    alt="Jahan's GitHub Trophies"
-  />
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---**JahanRazh/JahanRazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img align="right" width=200px height=145px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
