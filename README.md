@@ -104,7 +104,7 @@
   
   <img align="center" alt="portfolio image" width="300" src="portfolio.png">
   <br>
-  Visit <a href="https://jahanrazh.github.io/Jahan-sportfolio-website" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
+  Visit <a href="https://jahanrazh.vercel/" target="_blank"> My Online Portfolio </a> to discover more about my journey!  
  
 </td>
 </tr>
